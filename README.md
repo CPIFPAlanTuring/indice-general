@@ -271,12 +271,6 @@ DWEC: Desarrollo Web en Entorno Cliente. José Juan García Mayorga.
 
 HLC: Horas de Libre Configuración. José Juan García Mayorga.
 
-## Presentacion del CPIFP 29020231
-
-En la siguiente presentación se muestra la oferta educativa del IES Campanillas, información sobre las **FCT** (prácticas en empresas) y sobre la **Formación Profesional Dual**.
-
- [Presentacion del CPIFP 29020231](CPIFP_ENG.pdf)
-
 ## Diario de trabajo de FP Dual
 
 :notebook: <http://diario.iescampanillas.com>
