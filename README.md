@@ -10,9 +10,9 @@ Información para alumnos de **Formación Profesional** del **IES Campanillas** 
 * [Recogida de datos de alumnos](#recogida-de-datos-de-alumnos)
 * [Calendario escolar](#calendario-escolar)
 * [Normas de clase](#normas-de-clase)
-* [Presentacion del IES Campanillas](#presentacion-del-ies-campanillas)
 * [Perfiles de GitHub](#perfiles-de-github)
 * [Horarios](#horarios)
+* [Presentacion del CPIFP 29020231](#presentacion-del-CPIFP-29020231)
 * [Diario de trabajo de FP Dual](#diario-de-trabajo-de-fp-dual)
 * [Proyecto final](#proyecto-final)
 * [Localización](#localizacion)
@@ -108,12 +108,6 @@ Para ser admitido en la lista, cada alumno debe entrar en el grupo que le corres
 
 [Normas de clase y funcionamiento de los Ciclos Formativos en el PTA](normas_y_funcionamientov2.pdf)
 
-
-## Presentacion del IES Campanillas
-
-En la siguiente presentación se muestra la oferta educativa del IES Campanillas, información sobre las **FCT** (prácticas en empresas) y sobre la **Formación Profesional Dual**.
-
-[Presentacion del IES Campanillas](FPIESCampanillasPTA_Presentacion_Septiembre2021.pdf)
 
 ## <a id="perfiles-de-github"></a> :octocat: Perfiles de GitHub
 
@@ -263,6 +257,12 @@ DAW: Despliegue de Aplicaciones Web. Javier Morillas Zafra
 DWEC: Desarrollo Web en Entorno Cliente. José Juan García Mayorga.
 
 HLC: Horas de Libre Configuración. José Juan García Mayorga.
+
+## Presentacion del CPIFP 29020231
+
+En la siguiente presentación se muestra la oferta educativa del IES Campanillas, información sobre las **FCT** (prácticas en empresas) y sobre la **Formación Profesional Dual**.
+
+ [Presentacion del CPIFP 29020231]()
 
 ## Diario de trabajo de FP Dual
 
