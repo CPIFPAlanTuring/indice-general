@@ -239,13 +239,9 @@ Las instrucciones para la realización del proyecto final de DAM están en el si
 
 ## Localización
 
-<img src="img/mariecurie.png">
-
-[DAW: C/ Marie Curie, 10. 29590, PTA](https://goo.gl/maps/Hi65Z7uMpk467kyD9)
-
 <img src="img/incubadora.png">
 
-[DAM, SMR, Curso de especialización de Ciberseguridad: C/ Frederick Terman,3. 29590, PTA](https://goo.gl/maps/LU6FGYA9KgG2EF947)
+[C/ Frederick Terman,3. 29590, PTA](https://goo.gl/maps/LU6FGYA9KgG2EF947)
 
 <img src="img/PoloDigital.jpg" width="300">
 
