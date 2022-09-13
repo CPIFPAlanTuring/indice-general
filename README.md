@@ -249,7 +249,7 @@ Las instrucciones para la realización del proyecto final de DAM están en el si
 
 <img src="img/Accenture.png" width="300">
 
-[Curso de especialización de Videojuegos: Av de Sor Teresa Prat, 15, 29003 Málaga](https://goo.gl/maps/EqTUhpbXWf9n5Aaz9)
+[Curso de especialización de Inteligencia Artificial y Big: C/ Severo Ochoa, 21, 29590, PTA](https://goo.gl/maps/3Ucnoz9zNxhPjxRc8)
 
 ## Enlaces
 
