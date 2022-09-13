@@ -14,9 +14,28 @@ Información para alumnos de **Formación Profesional** del **IES Campanillas** 
 * [Horarios](#horarios)
 * [Perfiles de GitHub](#perfiles-de-github)
 * [Diario de trabajo de FP Dual](#diario-de-trabajo-de-fp-dual)
-* [Proyecto final](#proyecto-final)
 * [Localización](#localizacion)
 * [Enlaces](#enlaces)
+
+## Presentacion del CPIFP 29020231
+
+En la siguiente presentación se muestra la oferta educativa del IES Campanillas, información sobre las **FCT** (prácticas en empresas) y sobre la **Formación Profesional Dual**.
+
+ [Presentacion del CPIFP 29020231](CPIFP_ENG.pdf)
+
+## Recogida de datos de alumnos
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScuaE0yDEzbDe8kSUFBHRi9pndtiruPwckb_EE8pVvCzDY-hg/viewform" target="_blank"><img src="img/form.png"></a>
+
+[Formulario de recogida de datos](https://docs.google.com/forms/d/e/1FAIpQLScuaE0yDEzbDe8kSUFBHRi9pndtiruPwckb_EE8pVvCzDY-hg/viewform) a rellenar por todos los alumnos que cursan el ciclo.
+
+## Calendario escolar
+
+[Calendario del curso escolar 2022/2023 para Málaga](CALENDARIO22_23.pdf)
+
+## Normas de clase
+
+[Normas de clase y funcionamiento de los Ciclos Formativos en el PTA](normas_y_funcionamientov2.pdf)
 
 ## Módulos profesionales
 
@@ -55,18 +74,12 @@ Información para alumnos de **Formación Profesional** del **IES Campanillas** 
 ### CURSO DE ESPECIALIZACIÓN EN CIBERSEGURIDAD
 * [Análisis Forense](https://iescampanillas.com/aulavirtual/course/view.php?id=67)
 
-
 ## Recogida de datos de alumnos
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLScuaE0yDEzbDe8kSUFBHRi9pndtiruPwckb_EE8pVvCzDY-hg/viewform" target="_blank"><img src="img/form.png"></a>
 
 [Formulario de recogida de datos](https://docs.google.com/forms/d/e/1FAIpQLScuaE0yDEzbDe8kSUFBHRi9pndtiruPwckb_EE8pVvCzDY-hg/viewform) a rellenar por todos los alumnos que cursan el ciclo.
 
-## Recogida de datos para el servicio de transporte escolar
-
-<a href="https://docs.google.com/forms/d/e/1FAIpQLScZdPtyRDnM5sI365F04eYLaKqqBoZAyp0pUeQmivQiclItyw/viewform" target="_blank"><img src="img/form.png"></a>
-
-[Formulario de recogida de datos](https://docs.google.com/forms/d/e/1FAIpQLScuaE0yDEzbDe8kSUFBHRi9pndtiruPwckb_EE8pVvCzDY-hg/viewform) a rellenar por todos los alumnos que cursan el ciclo.
 
 <!--
 
@@ -292,6 +305,5 @@ Las instrucciones para la realización del proyecto final de DAM están en el si
 
 [IES Campanillas (web oficial)](http://iescampanillas.com/)
 
-[Plataforma educativa Moodle](https://iescampanillas.com/aulavirtual/)
 
 :star: Si te ha gustado este repo, dale una estrellita :wink:
