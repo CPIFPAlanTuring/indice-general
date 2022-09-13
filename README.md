@@ -12,6 +12,7 @@ Información para alumnos de **Formación Profesional** del **IES Campanillas** 
 * [Normas de clase](#normas-de-clase)
 * [Módulos profesionales](#módulos-profesionales)
 * [Horarios](#horarios)
+* [Canal de comunicación](#canal-de-comunicación)
 * [Perfiles de GitHub](#perfiles-de-github)
 * [Diario de trabajo de FP Dual](#diario-de-trabajo-de-fp-dual)
 * [Localización](#localizacion)
@@ -73,102 +74,6 @@ En la siguiente presentación se muestra la oferta educativa del IES Campanillas
 
 ### CURSO DE ESPECIALIZACIÓN EN CIBERSEGURIDAD
 * [Análisis Forense](https://iescampanillas.com/aulavirtual/course/view.php?id=67)
-
-## Recogida de datos de alumnos
-
-<a href="https://docs.google.com/forms/d/e/1FAIpQLScuaE0yDEzbDe8kSUFBHRi9pndtiruPwckb_EE8pVvCzDY-hg/viewform" target="_blank"><img src="img/form.png"></a>
-
-[Formulario de recogida de datos](https://docs.google.com/forms/d/e/1FAIpQLScuaE0yDEzbDe8kSUFBHRi9pndtiruPwckb_EE8pVvCzDY-hg/viewform) a rellenar por todos los alumnos que cursan el ciclo.
-
-
-<!--
-
-## Listas de correo
-
-<img src="img/groups.png">
-
-Para cada grupo del Ciclo Formativo existe una lista de correo (grupo de Google). Únicamente se admitirán los alumnos que aparezcan en la matrícula oficial y que, además, hayan rellenado el formulario del apartado anterior.
-
-Para ser admitido en la lista, cada alumno debe entrar en el grupo que le corresponda (enlaces de abajo) y solicitar la admisión en el grupo. En el campo de texto que debe aparecer, hay que introducir nombre y apellidos y el curso.
-
-[dam18-20@iescampanillas.com](https://groups.google.com/a/iescampanillas.com/forum/?utm_medium=email&utm_source=footer#!forum/dam18-20)
-
-
-* [IES Campanillas DAW - Promoción 2018/2020](https://groups.google.com/d/forum/ies-campanillas-daw-2018-2020): `ies-campanillas-daw-2018-2020@googlegroups.com`
-* [IES Campanillas DAM - Promoción 2018/2020](https://groups.google.com/d/forum/ies-campanillas-dam-2018-2020): `ies-campanillas-dam-2018-2020@googlegroups.com`
--->
-
-[Anexo III para la solicitud del transporte escolar](TransporteEscolarANEXOIII.pdf)
-
-## Teams
-
-<img src="img/Microsoft-Teams-Logo.png" width="200">
-
-[Canal de Teams del IES Campanillas](https://teams.microsoft.com)
-
-## Canal de Slack
-
-<img src="img/slack.png">
-
-[Canal de Slack del IES Campanillas](https://fpiescampanillas.slack.com)
-(A extinguir)
-
-## Calendario escolar
-
-[Calendario del curso escolar 2022/2023 para Málaga](CALENDARIO22_23.pdf)
-
-## Normas de clase
-
-[Normas de clase y funcionamiento de los Ciclos Formativos en el PTA](normas_y_funcionamientov2.pdf)
-
-
-## <a id="perfiles-de-github"></a> :octocat: Perfiles de GitHub
-
-### Grupo IES Campanillas
-
-[Perfil del grupo IES Campanillas](https://github.com/IESCampanillas)
-
-
-### Profesores
-
-[Luis José Sánchez](https://github.com/LuisJoseSanchez)
-
-[Eva María Perales Belizón](https://github.com/evaperales) 
-
-[José Juan García Mayorga](https://github.com/josejuanmayorga)
-
-Javier Morillas Zafra
-
-[Juan Antonio Jiménez](https://github.com/profesorjim) 
-
-[Antonio José Sánchez](https://github.com/bilbobolson) 
-
-[Pilar Gónzalez Augusto](https://github.com/PilarIESCampanillas)
-
-Isabel Gregory Chicano
-
-### Alumnos
-
-#### DAW
-
-[Perfiles de GitHub de alumnos de DAW de la promoción 2020 - 2022](https://github.com/IESCampanillas/github-alumnos-daw-20-22)
-
-[Perfiles de GitHub de alumnos de DAW de la promoción 2019 - 2021](https://github.com/IESCampanillas/github-alumnos-daw-1921)
-
-[Perfiles de GitHub de alumnos de DAW de la promoción 2017 - 2019](https://github.com/LuisJoseSanchez/github-alumnos-daw-1719)
-
-#### DAM
-
-[Perfiles de GitHub de alumnos de DAM de la promoción 2021 - 2023](https://github.com/IESCampanillas/github-alumnos-dam-21-23)
-
-[Perfiles de GitHub de alumnos de DAM de la promoción 2020 - 2022](https://github.com/IESCampanillas/github-alumnos-dam-20-22)
-
-[Perfiles de GitHub de alumnos de DAM de la promoción 2019 - 2021](https://github.com/IESCampanillas/github-alumnos-dam-1921)
-
-[Perfiles de GitHub de alumnos de DAM de la promoción 2018 - 2020](https://github.com/IESCampanillas/github-alumnos-dam-1820)
-
-[Perfiles de GitHub de alumnos de DAM de la promoción 2017 - 2019](https://github.com/LuisJoseSanchez/github-alumnos-dam-1719)
-
 
 ## Horarios
 
@@ -270,6 +175,57 @@ DAW: Despliegue de Aplicaciones Web. Javier Morillas Zafra
 DWEC: Desarrollo Web en Entorno Cliente. José Juan García Mayorga.
 
 HLC: Horas de Libre Configuración. José Juan García Mayorga.
+
+## Canal de comunicación
+
+<img src="img/seneca.png" width="200">
+
+## <a id="perfiles-de-github"></a> :octocat: Perfiles de GitHub
+
+### Grupo IES Campanillas
+
+[Perfil del grupo IES Campanillas](https://github.com/IESCampanillas)
+
+
+### Profesores
+
+[Luis José Sánchez](https://github.com/LuisJoseSanchez)
+
+[Eva María Perales Belizón](https://github.com/evaperales) 
+
+[José Juan García Mayorga](https://github.com/josejuanmayorga)
+
+Javier Morillas Zafra
+
+[Juan Antonio Jiménez](https://github.com/profesorjim) 
+
+[Antonio José Sánchez](https://github.com/bilbobolson) 
+
+[Pilar Gónzalez Augusto](https://github.com/PilarIESCampanillas)
+
+Isabel Gregory Chicano
+
+### Alumnos
+
+#### DAW
+
+[Perfiles de GitHub de alumnos de DAW de la promoción 2020 - 2022](https://github.com/IESCampanillas/github-alumnos-daw-20-22)
+
+[Perfiles de GitHub de alumnos de DAW de la promoción 2019 - 2021](https://github.com/IESCampanillas/github-alumnos-daw-1921)
+
+[Perfiles de GitHub de alumnos de DAW de la promoción 2017 - 2019](https://github.com/LuisJoseSanchez/github-alumnos-daw-1719)
+
+#### DAM
+
+[Perfiles de GitHub de alumnos de DAM de la promoción 2021 - 2023](https://github.com/IESCampanillas/github-alumnos-dam-21-23)
+
+[Perfiles de GitHub de alumnos de DAM de la promoción 2020 - 2022](https://github.com/IESCampanillas/github-alumnos-dam-20-22)
+
+[Perfiles de GitHub de alumnos de DAM de la promoción 2019 - 2021](https://github.com/IESCampanillas/github-alumnos-dam-1921)
+
+[Perfiles de GitHub de alumnos de DAM de la promoción 2018 - 2020](https://github.com/IESCampanillas/github-alumnos-dam-1820)
+
+[Perfiles de GitHub de alumnos de DAM de la promoción 2017 - 2019](https://github.com/LuisJoseSanchez/github-alumnos-dam-1719)
 
 ## Diario de trabajo de FP Dual
 
