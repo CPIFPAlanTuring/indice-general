@@ -6,13 +6,13 @@ Información para alumnos de **Formación Profesional** del **IES Campanillas** 
 
 ## Índice general
 
-* [Módulos profesionales](#módulos-profesionales)
+* [Presentacion del CPIFP 29020231](#presentacion-del-CPIFP-29020231)
 * [Recogida de datos de alumnos](#recogida-de-datos-de-alumnos)
 * [Calendario escolar](#calendario-escolar)
 * [Normas de clase](#normas-de-clase)
-* [Perfiles de GitHub](#perfiles-de-github)
+* [Módulos profesionales](#módulos-profesionales)
 * [Horarios](#horarios)
-* [Presentacion del CPIFP 29020231](#presentacion-del-CPIFP-29020231)
+* [Perfiles de GitHub](#perfiles-de-github)
 * [Diario de trabajo de FP Dual](#diario-de-trabajo-de-fp-dual)
 * [Proyecto final](#proyecto-final)
 * [Localización](#localizacion)
