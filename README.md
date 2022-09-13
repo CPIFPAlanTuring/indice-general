@@ -247,6 +247,10 @@ Las instrucciones para la realización del proyecto final de DAM están en el si
 
 [Curso de especialización de Videojuegos: Av de Sor Teresa Prat, 15, 29003 Málaga](https://goo.gl/maps/EqTUhpbXWf9n5Aaz9)
 
+<img src="img/Accenture.png" width="300">
+
+[Curso de especialización de Videojuegos: Av de Sor Teresa Prat, 15, 29003 Málaga](https://goo.gl/maps/EqTUhpbXWf9n5Aaz9)
+
 ## Enlaces
 
 [IES Campanillas (web oficial)](http://iescampanillas.com/)
