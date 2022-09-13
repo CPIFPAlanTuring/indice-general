@@ -2,7 +2,7 @@
 
 <img src="img/octubre2021.jpg">
 
-Información para alumnos de **Formación Profesional** del **IES Campanillas** (Málaga).
+Información para alumnos del **Centro Público Integrado de Formación Profesional con código 29020231** (Málaga).
 
 ## Índice general
 
@@ -15,7 +15,7 @@ Información para alumnos de **Formación Profesional** del **IES Campanillas** 
 * [Canal de comunicación](#canal-de-comunicación)
 * [Perfiles de GitHub](#perfiles-de-github)
 * [Diario de trabajo de FP Dual](#diario-de-trabajo-de-fp-dual)
-* [Localización](#localizacion)
+* [Localización](#localización)
 * [Enlaces](#enlaces)
 
 ## Presentacion del CPIFP 29020231
