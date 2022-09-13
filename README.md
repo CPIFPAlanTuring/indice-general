@@ -102,7 +102,7 @@ Para ser admitido en la lista, cada alumno debe entrar en el grupo que le corres
 
 ## Calendario escolar
 
-[Calendario del curso escolar 2021/2022 para Málaga](GRAFICO DEL CALENDARIO ESCOLAR PROVINCIA DE MALAGA 2022_2023.pdf)
+[Calendario del curso escolar 2022/2023 para Málaga](GRAFICO DEL CALENDARIO ESCOLAR PROVINCIA DE MALAGA 2022_2023.pdf)
 
 ## Normas de clase
 
