@@ -40,6 +40,8 @@ En la siguiente presentación se muestra la oferta educativa del IES Campanillas
 
 [1º ASIR](https://docs.google.com/forms/d/e/1FAIpQLSfwG7bw8q72IPCxnYl-vuz3iYdOjTVXX0gYKkFesPUTRzQ-Ag/viewform)
 
+[2º SMR](https://docs.google.com/forms/d/e/1FAIpQLSfj0GDktBpBw4V3IwzDAWwmtAFPq95na_5O6-UdHFAWmXwvvA/viewform)
+
 [2º DAW](https://docs.google.com/forms/d/e/1FAIpQLSdf-uVMmqZ1n_CN8cx4kYtEMt8xBaaVAi0N29ctQyact3aNEA/viewform)
 
 [2º DAM](https://docs.google.com/forms/d/e/1FAIpQLSdNIFSOtWQClFqmSqGIktFm0OpyC06fZOQJZV_mh7sF4s1t7w/viewform)
