@@ -28,7 +28,9 @@ En la siguiente presentación se muestra la oferta educativa del IES Campanillas
 <!--
 <a href="https://docs.google.com/forms/d/e/1FAIpQLScuaE0yDEzbDe8kSUFBHRi9pndtiruPwckb_EE8pVvCzDY-hg/viewform" target="_blank"><img src="img/form.png"></a> -->
 
-[Formulario de recogida de datos](https://docs.google.com/forms/d/e/1FAIpQLSdYbGlgxyMsQckK4BEh08LTgM-6bNIcozQ7Nv-_qq7U0TPMHg/viewform) a rellenar por todos los alumnos que cursan el ciclo.
+[1º DAW Mañana](https://docs.google.com/forms/d/e/1FAIpQLSdYbGlgxyMsQckK4BEh08LTgM-6bNIcozQ7Nv-_qq7U0TPMHg/viewform) 
+
+[1º DAW Tarde](https://docs.google.com/forms/d/e/1FAIpQLSfghshro4J-1l7g4OqHNQz1_7pI2wdnd1D8DnCgTZAL4fRJpA/viewform)
 
 ## Calendario escolar
 
