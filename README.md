@@ -44,7 +44,7 @@ En la siguiente presentación se muestra la oferta educativa del IES Campanillas
 * [Bases de Datos](https://iescampanillas.com/aulavirtual/course/view.php?id=24)
 * [Entornos de Desarrollo](https://iescampanillas.com/aulavirtual/course/view.php?id=15)
 * [Lenguajes de Marcas](https://iescampanillas.com/aulavirtual/course/view.php?id=16)
-* [Programación](https://github.com/LuisJoseSanchez/programacion)
+* [Programación](https://github.com/juanarrow/programacion)
 * [Sistemas Informáticos](https://iescampanillas.org/aulavirtual/course/view.php?id=22)
 * [Formación y Orientación Laboral](http://#)
 
@@ -52,7 +52,7 @@ En la siguiente presentación se muestra la oferta educativa del IES Campanillas
 * [Bases de Datos](https://iescampanillas.org/aulavirtual)
 * [Entornos de Desarrollo](https://iescampanillas.com/aulavirtual/course/view.php?id=18)
 * [Lenguajes de Marcas](https://iescampanillas.com/aulavirtual/course/view.php?id=19)
-* [Programación](https://github.com/LuisJoseSanchez/programacion)
+* [Programación](https://github.com/juanarrow/programacion)
 * [Sistemas Informáticos](https://iescampanillas.com/aulavirtual/course/view.php?id=22)
 * [Formación y Orientación Laboral](http://#)
 
@@ -119,7 +119,7 @@ SINF: Sistemas Informáticos. Juan Carlos Amaya.
 
 FOL: Formación y Orientación Laboral. Isabel Gregory.
 
-PRO: Programación. Juan Antonio Jiménez.
+PRO: Programación. Juan Antonio García Gómez.
 
 BBDD: Bases de Datos. Eva Mª Perales.
 
@@ -139,7 +139,7 @@ ED: Entornos de Desarrollo. Pilar González.
 |  SGE  |  AD    |   EIEM    |  DI    |  HLC    |
 |  SGE  |  AD    |   SGE     |  AD    |  HLC    |
 
-AD: Acceso a Datos. Luis José Sánchez.
+AD: Acceso a Datos. Juan Antonio García Gómez.
 
 EIEM: Empresa e Iniciativa Emprendedora. Isabel Gregory (DAW) y Paqui Báez Barrionuevo (DAM).
 
@@ -151,7 +151,7 @@ DI: Diseño de Interface. Moisés Martínez.
 
 SGE: Sistemas de Gestión Empresarial. José Juan García Mayorga.
 
-HLC: Horas de Libre Configuración. Sergio Banderas.
+HLC: Horas de Libre Configuración. Juan Antonio García Gómez.
 
 ### 2º DAW
 
