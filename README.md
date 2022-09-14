@@ -28,9 +28,28 @@ En la siguiente presentación se muestra la oferta educativa del IES Campanillas
 <!--
 <a href="https://docs.google.com/forms/d/e/1FAIpQLScuaE0yDEzbDe8kSUFBHRi9pndtiruPwckb_EE8pVvCzDY-hg/viewform" target="_blank"><img src="img/form.png"></a> -->
 
+[1º SMR](https://docs.google.com/forms/d/e/1FAIpQLSfGbTuWDTrYEgz3cJYkyLT6J-eBfV_CNMtU--Jc7PT1xvoSjA/viewform)
+
 [1º DAW Mañana](https://docs.google.com/forms/d/e/1FAIpQLSdYbGlgxyMsQckK4BEh08LTgM-6bNIcozQ7Nv-_qq7U0TPMHg/viewform) 
 
 [1º DAW Tarde](https://docs.google.com/forms/d/e/1FAIpQLSfghshro4J-1l7g4OqHNQz1_7pI2wdnd1D8DnCgTZAL4fRJpA/viewform)
+
+[1º DAM Mañana](https://docs.google.com/forms/d/e/1FAIpQLSe3rAHzxt0bTpf3xypN6rIpW8STV-8sjdVO3Rv1gx_fIb8xbg/viewform)
+
+[1º DAM Tarde](https://docs.google.com/forms/d/e/1FAIpQLSdi5lPsRgcMRk7m6fn5HfCG31yqL9wjAHhw8EEGCS3MUdd2Lg/viewform)
+
+[1º ASIR](https://docs.google.com/forms/d/e/1FAIpQLSfwG7bw8q72IPCxnYl-vuz3iYdOjTVXX0gYKkFesPUTRzQ-Ag/viewform)
+
+[2º DAW](https://docs.google.com/forms/d/e/1FAIpQLSdf-uVMmqZ1n_CN8cx4kYtEMt8xBaaVAi0N29ctQyact3aNEA/viewform)
+
+[2º DAM](https://docs.google.com/forms/d/e/1FAIpQLSdNIFSOtWQClFqmSqGIktFm0OpyC06fZOQJZV_mh7sF4s1t7w/viewform)
+
+[CE CIBERSEGURIDAD](https://docs.google.com/forms/d/e/1FAIpQLSfHp9M4xaSSDE14jAn0eOcuZZ1Etausk3feaOBvumnPpShAcQ/viewform)
+
+[CE IA y Big Data](https://docs.google.com/forms/d/e/1FAIpQLSdELYs7usBMLcubwrqK5NLgsuNhoYLshb1IR-FmsBkgClnNYA/viewform)
+
+
+
 
 ## Calendario escolar
 
