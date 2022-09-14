@@ -87,6 +87,12 @@ En la siguiente presentación se muestra la oferta educativa del IES Campanillas
 * [Formación y Orientación Laboral](http://#)
 
 ### 1º ASIR
+* [Gestión de Bases de Datos](http://#)
+* [Fundamentos de Hardware](http://#)
+* [Planificación y Administración de Redes](http://#)
+* [Implantación d eSistemas Operativos](http://#)
+* [Lenguajes de Marcas y Sistemas de Gestión](http://#)
+* [Formación y Orientación Laboral](http://#)
 
 ### 2º DAM
 * [Acceso a datos](https://github.com/LuisJoseSanchez/ionic)
