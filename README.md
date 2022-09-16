@@ -139,63 +139,59 @@ En la siguiente presentación se muestra la oferta educativa del IES Campanillas
 
 | Lunes | Martes | Miércoles | Jueves | Viernes |
 | :---: | :---:  |   :---:   | :---:  |  :---:  |
-|  PRO  |  PRO   |   SINF    |  PRO   |  SINF   |
-|  PRO  |  PRO   |   SINF    |  PRO   |  SINF   |
-|  LM   |  PRO   |   SINF    |  PRO   |  SINF   |
-|  ED   |  BBDD  |   LM      |  BBDD  |  FOL    |
-|  ED   |  BBDD  |   LM      |  BBDD  |  FOL    |
-|  ED   |  BBDD  |   LM      |  BBDD  |  FOL    |
+|  PRO  |  SINF  |   ED      |  PRO   |  FOL    |
+|  PRO  |  SINF  |   ED      |  PRO   |  FOL    |
+|  LM   |  SINF  |   PROG    |  LM    |  FOL    |
+|  LM   |  PRO   |   PROG    |  LM    |  SINF   |
+|  BBDD |  PRO   |   BBDD    |  BBDD  |  SINF   |
+|  BBDD |  ED    |   BBDD    |  BBDD  |  SINF   |
 
-ED: Entornos de Desarrollo. Pilar González.
+ED: Entornos de Desarrollo. Antonio Ortega González.
 
-PRO: Programación. Luis José Sánchez.
+PRO: Programación. Juan antonio García Gómez.
 
-BBDD: Bases de Datos. Eva Mª Perales.
+BBDD: Bases de Datos. Eva Mª Perales Belizón.
 
-LM: Lenguajes de Marcas y Sistemas de Gestión de Información. Pilar González.
+LM: Lenguajes de Marcas y Sistemas de Gestión de Información. Pilar González Augusto.
 
-SINF: Sistemas Informáticos. Gregorio Coronado Morón.
+SINF: Sistemas Informáticos. Prof. Nuevo.
 
-FOL: Formación y Orientación Laboral. Rosa Carmen (DAM)
-
-Delegado: (Pendiente de asignación)
-
-Subdelegado: (Pendiente de asignación)
+FOL: Formación y Orientación Laboral. Rosa Carmen Alcázar
 
 ### 1º DAW
 
 | Lunes | Martes | Miércoles | Jueves | Viernes |
 | :---: | :---:  |   :---:   | :---:  |  :---:  |
-|  LM   |  ED    |   ED      |  LM    |   FOL   |
-|  LM   |  BBDD  |   ED      |  LM    |   FOL   |
-|  PROG |  BBDD  |   PROG    |  PROG  |   FOL   |
-|  PROG |  PROG  |   PROG    |  PROG  |   SINF  |
-|  BBDD |  PROG  |   BBDD    |  SINF  |   SINF  |
-|  BBDD |  SINF  |   BBDD    |  SINF  |   SINF  |
+|  PROG |  SINF  |   BBDD    |  PROG  |   SINF  |
+|  PROG |  SINF  |   BBDD    |  PROG  |   SINF  |
+|  ED   |  SINF  |   BBDD    |  PROG  |   SINF  |
+|  ED   |  BBDD  |   PROG    |  ED    |   FOL   |
+|  LM   |  BBDD  |   PROG    |  LM    |   FOL   |
+|  LM   |  BBDD  |   PROG    |  LM    |   FOL   |
 
-SINF: Sistemas Informáticos. Juan Carlos Amaya.
+SINF: Sistemas Informáticos. Gregorio Coronado Morón.
 
-FOL: Formación y Orientación Laboral. Isabel Gregory.
+FOL: Formación y Orientación Laboral. Isabel Gregory chicano.
 
-PRO: Programación. Juan Antonio García Gómez.
+PRO: Programación. María Dolores. Jiménez.
 
 BBDD: Bases de Datos. Eva Mª Perales.
 
-LM: Lenguajes de Marcas y Sistemas de Gestión de Información. Pilar González.
+LM: Lenguajes de Marcas y Sistemas de Gestión de Información. Pilar González Augusto.
 
-ED: Entornos de Desarrollo. Pilar González.
+ED: Entornos de Desarrollo. Prof. Nuevo.
 
 
-### 2º DAM
+### 2º DAM (pendiente de actualizar)
 
-| Lunes | Martes | Miércoles | Jueves | Viernes |
-| :---: | :---:  |   :---:   | :---:  |  :---:  |
-|  PSP  |  DI    |   AD      |  PMDM   |  EIEM   |
-|  PSP  |  DI    |   AD      |  PMDM   |  EIEM   |
+| Lunes | Martes  | Miércoles | Jueves | Viernes |
+| :---: | :---:   |   :---:   | :---:  |  :---:  |
+|  PSP  |  DI     |   AD      |  PMDM  |  EIEM   |
+|  PSP  |  DI     |   AD      |  PMDM  |  EIEM   |
 |  PSP  |  PMDM   |   DI      |  DI    |  EIEM   |
 |  SGE  |  PMDM   |   DI      |  DI    |  HLC    |
-|  SGE  |  AD    |   EIEM    |  DI    |  HLC    |
-|  SGE  |  AD    |   SGE     |  AD    |  HLC    |
+|  SGE  |  AD     |   EIEM    |  DI    |  HLC    |
+|  SGE  |  AD     |   SGE     |  AD    |  HLC    |
 
 AD: Acceso a Datos. Juan Antonio García Gómez.
 
@@ -211,7 +207,7 @@ SGE: Sistemas de Gestión Empresarial. José Juan García Mayorga.
 
 HLC: Horas de Libre Configuración. Juan Antonio García Gómez.
 
-### 2º DAW
+### 2º DAW (pendiente de actualizar)
 
 | Lunes | Martes | Miércoles | Jueves | Viernes |
 | :---: | :---:  |   :---:   | :---:  |  :---:  |
