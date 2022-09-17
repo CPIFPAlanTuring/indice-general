@@ -182,28 +182,26 @@ LM: Lenguajes de Marcas y Sistemas de Gestión de Información. Pilar González 
 ED: Entornos de Desarrollo. Prof. Nuevo.
 
 
-### 2º DAM (pendiente de actualizar)
+### 2º DAM
 
 | Lunes | Martes  | Miércoles | Jueves | Viernes |
 | :---: | :---:   |   :---:   | :---:  |  :---:  |
-|  PSP  |  DI     |   AD      |  PMDM  |  EIEM   |
-|  PSP  |  DI     |   AD      |  PMDM  |  EIEM   |
-|  PSP  |  PMDM   |   DI      |  DI    |  EIEM   |
-|  SGE  |  PMDM   |   DI      |  DI    |  HLC    |
-|  SGE  |  AD     |   EIEM    |  DI    |  HLC    |
-|  SGE  |  AD     |   SGE     |  AD    |  HLC    |
+|  PRO  |  AD     |   PRO     |  PRO   |  HLC    |
+|  PRO  |  AD     |   PRO     |  PRO   |  HLC    |
+|  SGE  |  AD     |   PRO     |  AD    |  HLC    |
+|  SGE  |  EIEM   |   DI      |  AD    |  EIEM   |
+|  DI   |  DI     |   DI      |  SGE   |  EIEM   |
+|  DI   |  DI     |   DI      |  SGE   |  EIEM   |
 
 AD: Acceso a Datos. Juan Antonio García Gómez.
 
-EIEM: Empresa e Iniciativa Emprendedora. Isabel Gregory (DAW) y Paqui Báez Barrionuevo (DAM).
+EIEM: Empresa e Iniciativa Emprendedora. Rosa Carmen Alcázar Rosa.
 
-PMDM: Proyecto Multimedia y Dispositivos Móviles. Antonio J. Sánchez.
+PRO: Programación Multimedia y de Dispositivos Móviles, Programación de Servicios y Procesos. Antonio J. Sánchez.
 
-PSP: Programación de Servicios y Procesos. Antonio J. Sánchez.
+DI: Diseño de Interface. José David Quero Sánchez.
 
-DI: Diseño de Interface. Moisés Martínez.
-
-SGE: Sistemas de Gestión Empresarial. José Juan García Mayorga.
+SGE: Sistemas de Gestión Empresarial. Miguel Ángel Ronda Carracao.
 
 HLC: Horas de Libre Configuración. Juan Antonio García Gómez.
 
