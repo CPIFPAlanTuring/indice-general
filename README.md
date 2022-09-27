@@ -22,7 +22,7 @@ Información para alumnos del **Centro Público Integrado de Formación Profesio
 
 En la siguiente presentación se muestra la oferta educativa del IES Campanillas, información sobre las **FCT** (prácticas en empresas) y sobre la **Formación Profesional Dual**.
 
- [Presentacion del CPIFP 29020231](CPIFP_ENG.pdf)
+ [Presentacion del CPIFP 29020231](CPIFP_ENG_v2.pdf)
 
 ## Recogida de datos de alumnos
 <!--
