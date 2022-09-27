@@ -244,7 +244,7 @@ MIA: Modelos de Inteligencia Artificial. Eva Mª Perales Belzón
 
 IA: Sistemas de aprendizaje automático y Programación de Inteligencia Artificial. Luis José Sánchez González
 
-Big Data: Sistemas de Big Data y Big Data aplicado. miguel Ángel Rinda Carracao.
+Big Data: Sistemas de Big Data y Big Data aplicado. Miguel Ángel Ronda Carracao.
 
 
 ## Canal de comunicación
