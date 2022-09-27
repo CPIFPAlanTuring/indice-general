@@ -228,6 +228,25 @@ DWEC: Desarrollo Web en Entorno Cliente. José Juan García Mayorga.
 
 HLC: Horas de Libre Configuración. José Juan García Mayorga.
 
+
+### CURSO DE ESPECIALIZACIÓN EN INTELIGENCIA ARTIFICIAL Y BIG DATA
+
+| Lunes | Martes    | Miércoles  | Jueves | Viernes |
+| :---: | :---:     |   :---:    | :---:  |  :---:  |
+|       |  IA       |   IA       |  IA    |         |
+|  MIA  |  IA       |   IA       |  IA    |         |
+|  MIA  |  Big Data |   Big Data |  IA    |         |
+|  MIA  |  Big Data |   Big Data |  IA    |         |
+|       |  Big Data |   Big Data |  IA    |         |
+|       |  Big Data |            |  IA    |         |
+
+MIA: Modelos de Inteligencia Artificial. Eva Mª Perales Belzón
+
+IA: Sistemas de aprendizaje automático y Programación de Inteligencia Artificial. Luis José Sánchez González
+
+Big Data: Sistemas de Big Data y Big Data aplicado. miguel Ángel Rinda Carracao.
+
+
 ## Canal de comunicación
 
 <img src="img/seneca.png" width="200">
