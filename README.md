@@ -327,5 +327,7 @@ Mientras no esté disponible la web oficial del CPIFP Nuevo - 29020231, temporal
 
 [IES Campanillas (web oficial)](http://iescampanillas.com/)
 
+Web del CE en Inteligencia Artificial y Big Data:
+[MasterIABD.com](https://masteriabd.com/)
 
 :star: Si te ha gustado este repo, dale una estrellita :wink:
