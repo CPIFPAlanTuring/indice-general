@@ -323,6 +323,7 @@ Las instrucciones para la realización del proyecto final de DAM están en el si
 [Curso de especialización de Inteligencia Artificial y Big: C/ Severo Ochoa, 21, 29590, PTA](https://goo.gl/maps/3Ucnoz9zNxhPjxRc8)
 
 ## Enlaces
+Mientras no esté disponible la web oficial del CPIFP Nuevo - 29020231, temporalmente se publicaran las noticias en la web del IES Campaillas.
 
 [IES Campanillas (web oficial)](http://iescampanillas.com/)
 
