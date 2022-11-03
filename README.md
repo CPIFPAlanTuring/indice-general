@@ -2,7 +2,7 @@
 
 <img src="img/octubre2021.jpg">
 
-Información para alumnos del **Centro Público Integrado de Formación Profesional con código 29020231** (Málaga).
+Información para alumnos del **Centro Público Integrado de FP Málaga Tech Park** (Málaga).
 
 ## Índice general
 
@@ -22,7 +22,7 @@ Información para alumnos del **Centro Público Integrado de Formación Profesio
 
 En la siguiente presentación se muestra la oferta educativa del centro educativo, información sobre las **FCT** (prácticas en empresas) y sobre la **Formación Profesional Dual**.
 
- [Presentacion del CPIFP 29020231](CPIFP_ENG_v3.pdf)
+ [Presentacion del Centro Público Integrado de FP Málaga Tech Park](CPIFP_ENG_v3.pdf)
 
 ## Recogida de datos de alumnos
 <!--
