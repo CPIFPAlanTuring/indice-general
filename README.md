@@ -266,6 +266,8 @@ Big Data: Sistemas de Big Data y Big Data aplicado. Miguel Ángel Ronda Carracao
 
 [José Juan García Mayorga](https://github.com/josejuanmayorga)
 
+[Juan Antonio García Gómez](https://github.com/juanarrow)
+
 Javier Morillas Zafra
 
 [Juan Antonio Jiménez](https://github.com/profesorjim) 
