@@ -6,7 +6,7 @@ Información para alumnos del **Centro Público Integrado de FP Alan Turing** (M
 
 ## Índice general
 
-* [Presentacion del CPIFP 29020231](#presentacion-del-CPIFP-29020231)
+* [Presentacion del CPIFP](#presentacion-del-CPIFP)
 * [Recogida de datos de alumnos](#recogida-de-datos-de-alumnos)
 * [Calendario escolar](#calendario-escolar)
 * [Normas de clase](#normas-de-clase)
