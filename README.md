@@ -231,16 +231,16 @@ HLC: Horas de Libre Configuración. José Juan García Mayorga.
 
 ### CURSO DE ESPECIALIZACIÓN EN INTELIGENCIA ARTIFICIAL Y BIG DATA
 
-| Lunes | Martes    | Miércoles  | Jueves | Viernes |
-| :---: | :---:     |   :---:    | :---:  |  :---:  |
-|  IA   |  IA       |   IA       |  IA    |         |
-|  MIA  |  IA       |   IA       |  IA    |         |
-|  MIA  |  Big Data |   Big Data |  IA    |         |
-|  MIA  |  Big Data |   Big Data |  IA    |         |
-|       |  Big Data |   Big Data |  IA    |         |
-|       |  Big Data |            |        |         |
+| Lunes     | Martes    | Miércoles  | Jueves | Viernes |
+| :-------: | :-------: | :-----:    | :---:  |  :---:  |
+|           |           |   IA       |  IA    |         |
+|  Big Data |  Big Data |   IA       |  IA    |         |
+|  Big Data |  Big Data |   IA       |  IA    |         |
+|  Modelos  |  Big Data |   IA       |  IA    |         |
+|  Modelos  |  Big Data |   IA       |  IA    |         |
+|  Modelos  |  Big Data |            |        |         |
 
-MIA: Modelos de Inteligencia Artificial. Eva Mª Perales Belzón
+MIA: Modelos de Inteligencia Artificial. Sergio Sánchez Martín
 
 IA: Sistemas de aprendizaje automático y Programación de Inteligencia Artificial. Luis José Sánchez González
 
