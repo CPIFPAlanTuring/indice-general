@@ -240,9 +240,9 @@ HLC: Horas de Libre Configuración. José Juan García Mayorga.
 |  Modelos  |  Big Data | Inteligencia Artificial | Inteligencia Artificial |         |
 |  Modelos  |  Big Data |            |        |         |
 
-MIA: Modelos de Inteligencia Artificial. Sergio Sánchez Martín
+Modelos: Modelos de Inteligencia Artificial. Sergio Sánchez Martín
 
-IA: Sistemas de aprendizaje automático y Programación de Inteligencia Artificial. Luis José Sánchez González
+Inteligencia Artificial: Sistemas de aprendizaje automático y Programación de Inteligencia Artificial. Luis José Sánchez González
 
 Big Data: Sistemas de Big Data y Big Data aplicado. Miguel Ángel Ronda Carracao.
 
