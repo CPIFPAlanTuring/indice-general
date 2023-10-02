@@ -300,6 +300,10 @@ Isabel Gregory Chicano
 
 [Perfiles de GitHub de alumnos de DAM de la promoción 2017 - 2019](https://github.com/LuisJoseSanchez/github-alumnos-dam-1719)
 
+#### IABD
+
+[Perfiles de GitHub de alumnos del Máster en Inteligencia Artificial y Big Data de la promoción 2023 - 2024](https://github.com/CPIFPAlanTuring/iabd-perfiles-2324)
+
 ## Diario de trabajo de FP Dual
 
 :notebook: <http://diario.iescampanillas.com>
