@@ -233,11 +233,11 @@ HLC: Horas de Libre Configuración. José Juan García Mayorga.
 
 | Lunes     | Martes    | Miércoles  | Jueves | Viernes |
 | :-------: | :-------: | :-----:    | :---:  |  :---:  |
-|           |           |   Inteligencia Artificial       |  IA    |         |
-|  Big Data |  Big Data |   Inteligencia Artificial       |  IA    |         |
-|  Big Data |  Big Data |   IA       |  IA    |         |
-|  Modelos  |  Big Data |   IA       |  IA    |         |
-|  Modelos  |  Big Data |   IA       |  IA    |         |
+|           |           | Inteligencia Artificial | Inteligencia Artificial |         |
+|  Big Data |  Big Data | Inteligencia Artificial | Inteligencia Artificial |         |
+|  Big Data |  Big Data | Inteligencia Artificial | Inteligencia Artificial |         |
+|  Modelos  |  Big Data | Inteligencia Artificial | Inteligencia Artificial |         |
+|  Modelos  |  Big Data | Inteligencia Artificial | Inteligencia Artificial |         |
 |  Modelos  |  Big Data |            |        |         |
 
 MIA: Modelos de Inteligencia Artificial. Sergio Sánchez Martín
