@@ -1,4 +1,4 @@
-# Índice general del Centro Público Integrado de FP Alan Turing (temporalmente "CPIFP Nuevo") en Málaga Tech Park con código 29020231
+# Índice general del Centro Público Integrado de FP Alan Turing en Málaga Tech Park con código 29020231
 
 <img src="img/octubre2021.jpg">
 
