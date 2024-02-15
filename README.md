@@ -100,7 +100,7 @@ En la siguiente presentación se muestra la oferta educativa del centro educativ
 * [Programación multimedia y de dispositivos móviles](http://iescampanillas.com/moodle/course/view.php?id=68)
 * [Horas de Libre Configuración (English)](http://iescampanillas.com/moodle/course/view.php?id=44)
 * [Empresa e Iniciativa Emprendedora](http://#)
-* [Sistemas de gestión de empresas](https://classroom.google.com/u/0/w/Mzg5MzMzNTQ5NjU0/t/all)
+* [Sistemas de gestión empresarial](https://classroom.google.com/u/0/w/Mzg5MzMzNTQ5NjU0/t/all)
 
 ### 2º DAW
 * [Desarrollo Web en Entorno Cliente](https://classroom.google.com/u/0/w/MzcxMzg4MDE0NzQ1/t/all)
