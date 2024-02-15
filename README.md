@@ -277,6 +277,7 @@ Javier Morillas Zafra
 [Pilar Gónzalez Augusto](https://github.com/PilarIESCampanillas)
 
 Isabel Gregory Chicano
+[Miguel Ángel Ronda Carracao](https://github.com/profemronda)
 
 ### Alumnos
 
