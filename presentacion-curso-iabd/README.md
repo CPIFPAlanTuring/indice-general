@@ -42,6 +42,10 @@ Calle Severo Ochoa, 21
 
 - [ ] Comprobar el grupo de Google Chat del curso (todo el alumnado está invitado, pero hay varias invitaciones pendientes de aceptar)
 
+## Calendario escolar
+
+[Calendario del curso escolar 2024/2025 para Málaga](../calendario_escolar_2024_2025_malaga.pdf)
+
 ## Calendario de inicio de curso
 
 ### Presentación
