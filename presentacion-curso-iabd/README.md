@@ -76,11 +76,11 @@ Se recomienda al alumnado llegar antes de las 9:00h
 
 ## Aparcamiento
 
-[ ] Parking en el centro educativo:
+- [ ] Parking en el centro educativo:
 <https://maps.app.goo.gl/MXEWRMCet76b9Kc37>
 Entrando con el coche, la fila que queda a la izquierda está reservada para profesores. El alumnado puede aparcar a la derecha o, si se llena esa parte, en el centro.
 
-[ ] Parking cerca de Accenture:
+- [ ] Parking cerca de Accenture:
 <https://maps.app.goo.gl/TjeQK16VZ2CzqH5F9>
 A 5 o 10 minutos andando hasta la oficina.
 
@@ -100,7 +100,7 @@ El curso es PRESENCIAL (no a distancia ni semipresencial), por tanto, LA ASISTEN
 
 ## iPasen
 
-[ ] Verificar en la recepción de alumnado que todos acceden a Pasen (registrar las incidencias).
+- [ ] Verificar en la recepción de alumnado que todos acceden a Pasen (registrar las incidencias).
 
 Tutorial de iPasen (autologin en PC):
 <https://www.youtube.com/watch?v=3z6eWjQWnuc>
@@ -110,16 +110,12 @@ Tutorial de iPasen (instalación en el móvil y autologin):
 
 ## Autorización para tratamiento de imágenes
 
-[ ] Verificar que el alumnado acepta la autorización.
-
-Tipo: Autorización
-Título: Tratamiento imágenes centro educativo
-Detalle: Doy/No doy mi consentimiento para difundir mis imágenes captadas en determinados eventos o actividades realizadas por el centro y difundirlas en web y/o redes sociales con fines educativos.
+- [ ] Verificar que el alumnado acepta la autorización de tratamiento de imágenes.
 
 ## Dpto. Orientación
 
-[ ] El alumnado puede solicitar cita a la orientadora del centro por email: <sgonote136@g.educaand.es>
-[ ] Ejercicios guiados de meditación/respiración para ayudar a calmar y serenar a nuestro alumnado antes de comenzar una clase para aumentar posteriormente su atención y rendimiento (el profesorado que lo vea conveniente lo pueda utilizar).
+- [ ] El alumnado puede solicitar cita a la orientadora del centro por email: <sgonote136@g.educaand.es>
+- [ ] Ejercicios guiados de meditación/respiración para ayudar a calmar y serenar a nuestro alumnado antes de comenzar una clase para aumentar posteriormente su atención y rendimiento (el profesorado que lo vea conveniente lo pueda utilizar).
   * EJERCICIO DE RESPIRACIÓN DIAFRAGMÁTICA 7 minutos: <https://www.youtube.com/watch?v=eP3VHiqmelc&t=4s>
   * MINDFULLNESS 5 MINUTOS (MEDITACIÓN3): <https://www.youtube.com/watch?v=0sjVoX5ASwg&t=2s>
   * EJERCICIO DE RESPIRACIÓN (3-3-6) 5 minutos: <https://www.youtube.com/watch?v=oeOXoK67ewE&t=1s>
@@ -127,8 +123,8 @@ Detalle: Doy/No doy mi consentimiento para difundir mis imágenes captadas en de
 
 ## Comunicación con el tutor
 
-[ ] El alumnado puede realizar sus consultas al tutor durante su horario de clase, durante las horas de su horario no lectivo que se encuentre en Accenture, o bien contactando por email: <luisjose.sanchez@g.educaand.es>
+- [ ] El alumnado puede realizar sus consultas al tutor durante su horario de clase, durante las horas de su horario no lectivo que se encuentre en Accenture, o bien contactando por email: <luisjose.sanchez@g.educaand.es>
 
 ## Elección de delegado/delegada provisional
 
-[ ] Pedir voluntario/a para ser delegado/a provisional.
+- [ ] Pedir voluntario/a para ser delegado/a provisional.
