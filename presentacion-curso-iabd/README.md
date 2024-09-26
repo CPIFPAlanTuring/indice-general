@@ -21,11 +21,11 @@ Calle Severo Ochoa, 21
 
 ## Personal
 
-[ ] Presentación del equipo educativo
+- [ ] Presentación del equipo educativo
   - Luis José Sánchez (tutor). Profesor de IA.
   - Miguel Ángel Ronda. Profesor de BD.
   
-[ ] Presentación del resto de personal
+- [ ] Presentación del resto de personal
   - Miguel Ángel Domínguez (director del CPIFP Alan Turing)
   - Silvia María González (orientadora del CPIFP Alan Turing)
   - José Juan García ()
