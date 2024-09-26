@@ -98,6 +98,10 @@ El curso es PRESENCIAL (no a distancia ni semipresencial), por tanto, LA ASISTEN
 | 12:45-13:45 | IA - LSG  | BD - MRC  | IA - LSG  | BD - MRC   |
 | 13:45-14:45 |           | BD - MRC  |           | BD - MRC   |
 
+Inteligencia Artificial: Luis José Sánchez González
+
+Big Data: Miguel Ángel Ronda Carracao.
+
 ## iPasen
 
 - [ ] Verificar en la recepción de alumnado que todos acceden a Pasen (registrar las incidencias).
