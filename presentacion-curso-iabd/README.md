@@ -35,32 +35,39 @@ Calle Severo Ochoa, 21
 
 ## Alumnado
 
-[ ] Pasar lista prestando especial atención a posibles errores en nombre y apellidos e informar por email al administrativo <29020231.info@g.educaand.es> de los posibles fallos en el listado de alumnado y de módulos profesionales matriculados.
+- [ ] Pasar lista prestando especial atención a posibles errores en nombre y apellidos e informar por email al administrativo <29020231.info@g.educaand.es> de los posibles fallos en el listado de alumnado y de módulos profesionales matriculados.
 
-[ ] Informar de la obligatoriedad de haber firmado el documento del Fondo Social Europeo y pagar el seguro escolar para los menores de 28 años, a través de la Secretaría Virtual.
+- [ ] Informar de la obligatoriedad de haber firmado el documento del Fondo Social Europeo y pagar el seguro escolar para los menores de 28 años, a través de la Secretaría Virtual.
 <https://www.juntadeandalucia.es/educacion/secretariavirtual/seguroEscolar/pagoSeguroEscolar/>
 
-[ ] Comprobar el grupo de Google Chat del curso (todo el alumnado está invitado, pero hay varias invitaciones pendientes de aceptar)
+- [ ] Comprobar el grupo de Google Chat del curso (todo el alumnado está invitado, pero hay varias invitaciones pendientes de aceptar)
 
 ## Calendario de inicio de curso
 
 ### Presentación
 
- 📅 viernes 27 de septiembre de 2024
+📅 viernes 27 de septiembre de 2024
+
 📍 Salón de actos del centro educativo
 
 ### Clase introductoria
 
 📅 lunes 30 de septiembre de 2024
+
 📍 Salón de actos del centro educativo
 
 ### Presentación en Accenture
 
 📅 martes 1 de octubre de 2024
+
 8:15h El tutor estará en Accenture para recibir al alumnado
+
 9:00h Citación para la entrega del PC en los sitios reservados por Workplace.
+
 Se recomienda al alumnado llegar antes de las 9:00h 
-10:00h Sesión de bienvenida a Accenture por parte de @Amaya Ruiz, Cristina 
+
+10:00h Sesión de bienvenida a Accenture
+
 10:30h Bienvenida por parte del centro Alan Turing y equipo de Data e IA
 
 ## Web informativa
