@@ -4,12 +4,14 @@
 ## Centro educativo
 
 **CPIFP Alan Turing**
+
 Código de centro: 29020231
 C/ Frederick Terman, 3
 29590 Campanillas (Málaga)
 <https://fpalanturing.es/>
 
 **Accenture**
+
 Calle Severo Ochoa, 21
 29590 Campanillas, Málaga
 
