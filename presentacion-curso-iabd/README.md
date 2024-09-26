@@ -136,3 +136,7 @@ Tutorial de iPasen (instalación en el móvil y autologin):
 ## Elección de delegado/delegada provisional
 
 - [ ] Pedir voluntario/a para ser delegado/a provisional.
+
+## Recogida de datos
+
+[Formulario de recogida de datos para el CE IA y Big Data](https://docs.google.com/forms/d/e/1FAIpQLSdELYs7usBMLcubwrqK5NLgsuNhoYLshb1IR-FmsBkgClnNYA/viewform)
