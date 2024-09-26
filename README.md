@@ -7,6 +7,7 @@ Información para alumnos del **Centro Público Integrado de FP Alan Turing** (M
 ## Índice general
 
 * [Presentacion del CPIFP](#presentacion-del-CPIFP)
+* [Oferta formativa](#oferta-formativa)
 * [Recogida de datos de alumnos](#recogida-de-datos-de-alumnos)
 * [Calendario escolar](#calendario-escolar)
 * [Normas de clase](#normas-de-clase)
@@ -23,6 +24,10 @@ Información para alumnos del **Centro Público Integrado de FP Alan Turing** (M
 En la siguiente presentación se muestra la oferta educativa del centro educativo, información sobre las **FCT** (prácticas en empresas) y sobre la **Formación Profesional Dual**.
 
  [Presentacion del Centro Público Integrado de FP](CPIFP_ENG_v3.pdf)
+
+## Oferta formativa
+
+<img src="img/oferta_formativa.png" alt="Oferta formativa del CPIFP Alan Turing">
 
 ## Recogida de datos de alumnos
 <!--
