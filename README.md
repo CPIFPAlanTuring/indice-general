@@ -27,7 +27,7 @@ En la siguiente presentación se muestra la oferta educativa del centro educativ
 
 ## Oferta formativa
 
-<img src="img/oferta_formativa.png" alt="Oferta formativa del CPIFP Alan Turing">
+<img src="img/oferta_formativa_2425.png" alt="Oferta formativa del CPIFP Alan Turing">
 
 ## Recogida de datos de alumnos
 <!--
