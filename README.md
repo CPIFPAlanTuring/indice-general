@@ -50,9 +50,6 @@ En la siguiente presentación se muestra la oferta educativa del centro educativ
 
 [CE IA y Big Data](https://docs.google.com/forms/d/e/1FAIpQLSdELYs7usBMLcubwrqK5NLgsuNhoYLshb1IR-FmsBkgClnNYA/viewform)
 
-
-
-
 ## Calendario escolar
 
 [Calendario del curso escolar 2022/2023 para Málaga](calendario_escolar_2023_2024.pdf)
@@ -229,22 +226,21 @@ DWEC: Desarrollo Web en Entorno Cliente. José Juan García Mayorga.
 HLC: Horas de Libre Configuración. José Juan García Mayorga.
 
 
-### CURSO DE ESPECIALIZACIÓN EN INTELIGENCIA ARTIFICIAL Y BIG DATA
+### MÁSTER EN INTELIGENCIA ARTIFICIAL Y BIG DATA
 
-| Lunes     | Martes    | Miércoles  | Jueves | Viernes |
-| :-------: | :-------: | :-----:    | :---:  |  :---:  |
-|           |           | Inteligencia Artificial | Inteligencia Artificial |         |
-|  Big Data |  Big Data | Inteligencia Artificial | Inteligencia Artificial |         |
-|  Big Data |  Big Data | Inteligencia Artificial | Inteligencia Artificial |         |
-|  Modelos  |  Big Data | Inteligencia Artificial | Inteligencia Artificial |         |
-|  Modelos  |  Big Data | Inteligencia Artificial | Inteligencia Artificial |         |
-|  Modelos  |  Big Data |            |        |         |
+| Horario     | Lunes     | Martes    | Miércoles | Jueves     |
+|:-----------:|:---------:|:---------:|:---------:|:----------:|
+| 08:15-09:15 | IA - LSG  | IA - LSG  |           | IA - LSG   |
+| 09:15-10:15 | IA - LSG  | IA - LSG  |           | IA - LS    |
+| 10:15-11:15 | IA - LSG  | IA - LSG  | IA - LSG  | BD - MRC   |
+| 11:45-12:45 |  RECREO   |  RECREO   |  RECREO   |  RECREO    |
+| 11:45-12:45 | IA - LSG  | BD - MRC  | IA - LSG  | BD - MRC   |
+| 12:45-13:45 | IA - LSG  | BD - MRC  | IA - LSG  | BD - MRC   |
+| 13:45-14:45 |           | BD - MRC  |           | BD - MRC   |
 
-Modelos: Modelos de Inteligencia Artificial. Sergio Sánchez Martín
+Inteligencia Artificial: Luis José Sánchez González
 
-Inteligencia Artificial: Sistemas de aprendizaje automático y Programación de Inteligencia Artificial. Luis José Sánchez González
-
-Big Data: Sistemas de Big Data y Big Data aplicado. Miguel Ángel Ronda Carracao.
+Big Data: Miguel Ángel Ronda Carracao.
 
 
 ## Canal de comunicación
