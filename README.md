@@ -253,9 +253,9 @@ Big Data: Sistemas de Big Data y Big Data aplicado. Miguel Ángel Ronda Carracao
 
 ## <a id="perfiles-de-github"></a> :octocat: Perfiles de GitHub
 
-### Grupo CPIFP Nuevo - 29020231
+### CPIFP Alan Turing - 29020231
 
-[Perfil del grupo CPIFP Nuevo - 29020231](https://github.com/CPIFP-29020231)
+[Perfil del grupo CPIFP Nuevo - 29020231](https://github.com/CPIFPAlanTuring)
 
 
 ### Profesores
@@ -268,15 +268,12 @@ Big Data: Sistemas de Big Data y Big Data aplicado. Miguel Ángel Ronda Carracao
 
 [Juan Antonio García Gómez](https://github.com/juanarrow)
 
-Javier Morillas Zafra
-
 [Juan Antonio Jiménez](https://github.com/profesorjim) 
 
 [Antonio José Sánchez](https://github.com/bilbobolson) 
 
 [Pilar Gónzalez Augusto](https://github.com/PilarIESCampanillas)
 
-Isabel Gregory Chicano
 [Miguel Ángel Ronda Carracao](https://github.com/profemronda)
 
 ### Alumnos
