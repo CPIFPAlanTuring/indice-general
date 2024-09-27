@@ -28,7 +28,7 @@ Calle Severo Ochoa, 21
 - [ ] Presentación del resto de personal
   - Miguel Ángel Domínguez (director del CPIFP Alan Turing)
   - Silvia María González (orientadora del CPIFP Alan Turing)
-  - José Juan García ()
+  - José Juan García (encargado de bilingüismo)
   - Nuria Iglesias (Industry and Culture Lead en Accenture)
   - José Bernal (Manager en Accenture)
   - Eloyna Lorenzo (Data Engineering Manager en Accenture)
@@ -97,7 +97,7 @@ El curso es PRESENCIAL (no a distancia ni semipresencial), por tanto, LA ASISTEN
 | 08:15-09:15 | IA - LSG  | IA - LSG  |           | IA - LSG   |
 | 09:15-10:15 | IA - LSG  | IA - LSG  |           | IA - LS    |
 | 10:15-11:15 | IA - LSG  | IA - LSG  | IA - LSG  | BD - MRC   |
-| 11:45-12:45 |  RECREO   |  RECREO   |  RECREO   |  RECREO    |
+| 11:15-11:45 |  RECREO   |  RECREO   |  RECREO   |  RECREO    |
 | 11:45-12:45 | IA - LSG  | BD - MRC  | IA - LSG  | BD - MRC   |
 | 12:45-13:45 | IA - LSG  | BD - MRC  | IA - LSG  | BD - MRC   |
 | 13:45-14:45 |           | BD - MRC  |           | BD - MRC   |
