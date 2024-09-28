@@ -28,7 +28,7 @@ Calle Severo Ochoa, 21
 - [x] Presentación del resto de personal
   - Miguel Ángel Domínguez (director del CPIFP Alan Turing)
   - Silvia María González (orientadora del CPIFP Alan Turing)
-  - José Juan García (encargado de bilingüismo)
+  - José Juan García (encargado de bilingüismo del CPIFP Alan Turing)
   - Nuria Iglesias (Industry and Culture Lead en Accenture)
   - José Bernal (Manager en Accenture)
   - Eloyna Lorenzo (Data Engineering Manager en Accenture)
