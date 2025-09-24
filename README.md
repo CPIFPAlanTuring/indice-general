@@ -57,7 +57,7 @@ En la siguiente presentación se muestra la oferta educativa del centro educativ
 
 ## Calendario escolar
 
-[Calendario del curso escolar 2024/2025 para Málaga](calendario_escolar_2024_2025_malaga.pdf)
+[Calendario del curso escolar 2025/2026 para Málaga](calendario_escolar_2025_2026_malaga.pdf)
 
 ## Normas de clase
 
