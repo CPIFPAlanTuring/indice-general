@@ -16,7 +16,7 @@ Información para alumnos del **Centro Público Integrado de FP Alan Turing** (M
 * [Canal de comunicación](#canal-de-comunicación)
 * [Perfiles de GitHub](#perfiles-de-github)
 * [Diario de trabajo de FP Dual](#diario-de-trabajo-de-fp-dual)
-* [Localización](#localización)
+* [Localización](#localizaciones)
 * [Enlaces](#enlaces)
 
 ## Presentacion del CPIFP
@@ -242,6 +242,8 @@ HLC: Horas de Libre Configuración. José Juan García Mayorga.
 | 11:45-12:45 | BD - MRC  | IA - LSG  |           | BD - JAP   |            |
 | 12:45-13:45 | BD - MRC  | IA - LSG  |           | IA - LSG   |            |
 | 13:45-14:45 | BD - MRC  | IA - LSG  |           | IA - LSG   |            |
+
+Los lunes y los viernes se imparten clases en Accenture, mientras que los martes y los jueves se imparte la docencia en el Centro Andaluz para la Innovación de la FP (ver [localizaciones](#localizaciones)).
 
 Inteligencia Artificial: Luis José Sánchez González
 
