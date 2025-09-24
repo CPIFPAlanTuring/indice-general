@@ -327,7 +327,7 @@ Las instrucciones para la realización del proyecto final de DAM están en el si
 
 [Curso de especialización de Inteligencia Artificial y Big Data (Localización 1): C/ Severo Ochoa, 21, 29590, PTA](https://goo.gl/maps/3Ucnoz9zNxhPjxRc8)
 
-<img src="img/Accenture.png" width="300">
+<img src="img/capifp.png" width="300">
 
 [Curso de especialización de Inteligencia Artificial y Big Data (Localización 2): C/ Pierre Laffitte, 6, 8, 29590 Málaga, 29590, PTA]([https://goo.gl/maps/3Ucnoz9zNxhPjxRc8](https://maps.app.goo.gl/ZcY4v9xJ8EmUokoM8))
 
