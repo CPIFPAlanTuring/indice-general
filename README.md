@@ -16,7 +16,7 @@ Información para alumnos del **Centro Público Integrado de FP Alan Turing** (M
 * [Canal de comunicación](#canal-de-comunicación)
 * [Perfiles de GitHub](#perfiles-de-github)
 * [Diario de trabajo de FP Dual](#diario-de-trabajo-de-fp-dual)
-* [Localización](#localizaciones)
+* [Localizaciones](#localizaciones)
 * [Enlaces](#enlaces)
 
 ## Presentacion del CPIFP
