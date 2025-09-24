@@ -233,19 +233,19 @@ HLC: Horas de Libre Configuración. José Juan García Mayorga.
 
 ### MÁSTER EN INTELIGENCIA ARTIFICIAL Y BIG DATA
 
-| Horario     | Lunes     | Martes    | Miércoles | Jueves     |
-|:-----------:|:---------:|:---------:|:---------:|:----------:|
-| 08:15-09:15 | IA - LSG  | IA - LSG  |           | IA - LSG   |
-| 09:15-10:15 | IA - LSG  | IA - LSG  |           | IA - LS    |
-| 10:15-11:15 | IA - LSG  | IA - LSG  | IA - LSG  | BD - MRC   |
-| 11:45-12:45 |  RECREO   |  RECREO   |  RECREO   |  RECREO    |
-| 11:45-12:45 | IA - LSG  | BD - MRC  | IA - LSG  | BD - MRC   |
-| 12:45-13:45 | IA - LSG  | BD - MRC  | IA - LSG  | BD - MRC   |
-| 13:45-14:45 |           | BD - MRC  |           | BD - MRC   |
+| Horario     | Lunes     | Martes    | Miércoles | Jueves     | Viernes    |
+|:-----------:|:---------:|:---------:|:---------:|:----------:|:----------:|
+| 08:15-09:15 | IA - LSG  | IA - LSG  |           |            |  IA - LSG  |
+| 09:15-10:15 | IA - LSG  | IA - LSG  |           | BD - JAP   |  IA - LSG  |
+| 10:15-11:15 | BD - MRC  | IA - LSG  |           | BD - JAP   |  IA - LSG  |
+| 11:45-12:45 |  RECREO   |  RECREO   |           |  RECREO    |            |
+| 11:45-12:45 | BD - MRC  | IA - LSG  |           | BD - JAP   |            |
+| 12:45-13:45 | BD - MRC  | IA - LSG  |           | IA - LSG   |            |
+| 13:45-14:45 | BD - MRC  | IA - LSG  |           | IA - LSG   |            |
 
 Inteligencia Artificial: Luis José Sánchez González
 
-Big Data: Miguel Ángel Ronda Carracao.
+Big Data: Miguel Ángel Ronda Carracao y José Antonio Pérez Alías
 
 
 ## Canal de comunicación
